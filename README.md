@@ -26,5 +26,3 @@
 - 📫 How to reach me **milansurelia@gmail.com**
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milansurelia&show_icons=true&locale=en&layout=compact" alt="milansurelia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milansurelia&show_icons=true&theme=dark&locale=en" alt="milansurelia" /></p>
