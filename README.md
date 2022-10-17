@@ -25,3 +25,6 @@
  
  
 <p align="left"> <a href="https://twitter.com/milanpsurelia" target="blank"><img src="https://img.shields.io/twitter/follow/milanpsurelia?logo=twitter&style=for-the-badge" alt="milanpsurelia" /></a> </p>
+ 
+ [![@milansurelia's Holopin board](https://holopin.me/milansurelia)](https://holopin.io/@milansurelia)
+
