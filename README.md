@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=milansurelia&label=Profile%20views&color=0e75b6&style=flat" alt="milansurelia" /> </p> -->
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@milansurelia/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@milansurelia/0" alt="Recent Article"> 
 
