@@ -3,9 +3,6 @@
 <h3 align="center">Contributor on Stackoverflow & GitHub | A Technophile ✌
 </h3>
 
-<p align="left"> <img src="https://github.com/milansurelia/milansurelia/blob/main/card.png?raw=true" alt="milansurelia" /> </p>
-
-
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@milansurelia/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@milansurelia/0" alt="Recent Article"> 
