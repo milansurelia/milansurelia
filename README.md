@@ -3,7 +3,8 @@
 <h3 align="center">Contributor on Stackoverflow & GitHub | A Technophile ✌
 </h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=milansurelia&label=Profile%20views&color=0e75b6&style=flat" alt="milansurelia" /> </p> -->
+<p align="left"> <img src="https://github.com/milansurelia/milansurelia/blob/main/card.png?raw=true" alt="milansurelia" /> </p>
+
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
