@@ -6,7 +6,8 @@
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@milansurelia/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@milansurelia/0" alt="Recent Article"> 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@milansurelia/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@milansurelia/1" alt="Recent Article"> 
+ 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@milansurelia/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@milansurelia/0" alt="Recent Article"> 
 
 <!-- BLOG-POST-LIST:END -->
  
