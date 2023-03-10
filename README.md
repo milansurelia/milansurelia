@@ -3,7 +3,7 @@
 <h3 align="center">Contributor on Stackoverflow & GitHub | A Technophile ✌
 </h3>
 
-## Blog Posts
+## Top Blog Posts
 <!-- BLOG-POST-LIST:START -->
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@milansurelia/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@milansurelia/0" alt="Recent Article"> 
  
