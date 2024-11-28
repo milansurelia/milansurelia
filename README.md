@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan Surelia</h1>
-<h3 align="center">Flutter Developer 💙 7Span | Open Source Enthusiast</h3>
-<h3 align="center">Contributor on Stackoverflow & GitHub | A Technophile ✌
+<h3 align="center">Co-Founder @ Meticha | Flutter Developer 💙 7Span</h3>
+<h3 align="center">Blogger | Open Source Contributor | A Technophile ✌
 </h3>
 
 ## Top Blog Posts
